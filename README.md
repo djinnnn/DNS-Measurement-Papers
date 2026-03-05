@@ -6,7 +6,7 @@ A curated collection of academic papers and resources focused on DNS (Domain Nam
 ## 核心主题
 • 全球 DNS 基础设施分析
 
-• DNS 安全性与隐私 (DoH, DoT, PQC)
+• DNS 安全性与隐私 (DoH, DoT, DoQ etc.)
 
 • 解析性能与延迟测量
 
